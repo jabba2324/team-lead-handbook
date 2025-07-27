@@ -45,6 +45,7 @@ Very few things in the handbook are the author's own work; rather, they are tool
 ## 5 Tech debt
 
 * 5.1 [Calculating non-functional/low-level constraints](/chapter_5/non_functional_constraints.md)
+* 5.1.1 [Load Testing](/chapter_5/load_testing.md)
 * 5.2 [Value/effort quadrant](/chapter_5/value_effort_quad.md)
 
 ## 6 Systems
