@@ -24,7 +24,7 @@ Very few things in the handbook are the author's own work; rather, they are tool
 * 2.3 [Test coverage](/chapter_2/tests.md)
 * 2.4 [Dependency auditing](/chapter_2/dep_audit.md)
 * 2.5 [Linting](/chapter_2/code_styling.md)
-* 2.6 [LTS matrix](/chapter_2/lts_matrix.md) TODO
+* 2.6 [LTS matrix](/chapter_2/lts_matrix.md)
 * 2.7 [OWASP Top 10](/chapter_2/owasp_10.md)
 
 ## 3 Introducing change
@@ -54,7 +54,7 @@ Very few things in the handbook are the author's own work; rather, they are tool
 * 6.3 [Event sourcing](/chapter_6/event_sourcing.md)
 
 ## Version History
-Last updated: June 2023
+Last updated: July 2025
 
 ## Glossary
 [View the glossary of terms used in this handbook](/glossary.md)
