@@ -1,6 +1,5 @@
 # Whiteboarding System Design
-
-Whiteboarding system design is a collaborative approach to visualizing and planning software architecture. It's valuable for both system design discussions and technical interviews.
+Whiteboarding system design is a collaborative approach to visualizing and planning software architecture. It's valuable for both system design discussions and technical interviews. It is a common excersize when interviewing for a role in a FAANG tech company. 
 
 ## Process
 
@@ -62,7 +61,13 @@ Whiteboarding system design is a collaborative approach to visualizing and plann
 
 ## Examples
 
-*Coming soon*
+### Video Tutorials
+
+- [System Design Interview: Design YouTube - Approach a System Design Interview](https://www.youtube.com/watch?v=jPKTo1iGQiE) - A popular video by Exponent with over 1.2 million views that walks through how to approach a system design interview at FAANG companies, using YouTube as the example system to design. The video demonstrates effective whiteboarding techniques, how to structure your approach, and common patterns used in successful interviews.
+
+- [System Design Mock Interview: Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE) - A mock interview by Clement Mihailescu (ex-Google, ex-Facebook) showing how to design Instagram in a FAANG interview setting, with practical whiteboarding examples.
+
+- [How to Ace a System Design Interview – Step by Step Guide](https://www.youtube.com/watch?v=i7twT3x5yv8) - A comprehensive tutorial by ByteByteGo (founded by an Amazon engineer) that breaks down the whiteboarding process for system design interviews at top tech companies.
 
 ## Sources
 

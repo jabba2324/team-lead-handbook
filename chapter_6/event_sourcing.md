@@ -52,7 +52,7 @@ Event sourcing is an architectural pattern where changes to application state ar
 
 ## Examples
 
-*Coming soon*
+I would start [here](https://martinfowler.com/eaaDev/EventSourcing.html) with Martin Fowlers article, he includes examples of event source diagramming as he is explaining the concepts.
 
 ## Sources
 
