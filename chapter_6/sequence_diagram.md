@@ -13,3 +13,5 @@ Sequence diagrams are very common. A quick google image search will give many ex
 ### Sources
 * Creatley templates https://creately.com/diagram/example/h9256rlo1/student-login-sequence-diagram-example
 * Wikipedia https://en.wikipedia.org/wiki/Unified_Modeling_Language
+
+[Back to Table of Contents](/README.md)

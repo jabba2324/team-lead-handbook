@@ -44,4 +44,6 @@ A completed submission from a team member might looks like this:
 
 From here you can do some excel magic to understand alignment or disparity in the team and which topics to focus on.
 ### Source
-Created by @jermaine-24x7 LinkedIn: @jgand3rson and insprited by Team Topologies
+Created by @jermaine-24x7 LinkedIn: @jgand3rson and inspired by Team Topologies
+
+[Back to Table of Contents](/README.md)

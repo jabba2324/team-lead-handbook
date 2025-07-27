@@ -23,5 +23,6 @@ Below are some tools and example commands we have used on previous projects.
 | Dart | [Flutter Lints](https://pub.dev/packages/flutter_lints) | [example](./dart_analysis_options.yaml) |
 
 ### Source
-Microsoft's [guidelines on code quality](
-https://learn.microsoft.com/en-us/visualstudio/code-quality/code-metrics-cyclomatic-complexity?view=vs-2022)
+Microsoft's [guidelines on code quality](https://learn.microsoft.com/en-us/visualstudio/code-quality/code-metrics-cyclomatic-complexity?view=vs-2022)
+
+[Back to Table of Contents](/README.md)
