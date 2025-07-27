@@ -1,5 +1,5 @@
 # The Team Lead Handbook
-The Team Lead Handbook is a collection of resources & tools for team leads, engineering managers or similar roles. It covers a broad range of topics from capturing the state of a dev team, code health, operational excellence and more. It can help you better understand your domain and support reasoning when communicating with a CTO or Head of Engineering.
+The Team Lead Handbook is a collection of resources & tools for team leads, engineering managers or similar roles. It covers a broad range of topics from capturing the state of a dev team, code health, operational excellence and more. It can help you better understand your domain and support you in communicating with a CTO or Head of Engineering when trying to justify change.
 
 If you work in an adjacent discipline such as delivery, product or quality, you might also find some chapters useful.
 
