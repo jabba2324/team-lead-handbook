@@ -25,7 +25,7 @@ Very few things in the handbook are the author's own work; rather, they are tool
 * 2.4 [Dependency auditing](/chapter_2/dep_audit.md) TODO
 * 2.5 [Linting](/chapter_2/code_styling.md) TODO
 * 2.6 [LTS matrix](/chapter_2/lts_matrix.md) TODO
-* 2.7 [OWASP Top 10](/chapter_2/owasp_10.md) TODO
+* 2.7 [OWASP Top 10](/chapter_2/owasp_10.md)
 
 ## 3 Introducing change
 
@@ -38,7 +38,7 @@ Very few things in the handbook are the author's own work; rather, they are tool
 ## 4 Operations
 
 * 4.1 [Runbooks](/chapter_4/runbooks.md)
-* 4.2 [System event log](/chapter_4/system_event_log.md)
+* 4.2 [Structured logging](/chapter_4/structured_logging.md)
 * 4.3 [Post mortems](/chapter_4/post_mortems.md)
 * 4.4 [Designing dashboards](/chapter_4/designing_dashboards.md)
 
