@@ -22,8 +22,8 @@ Very few things in the handbook are the author's own work; rather, they are tool
 * 2.1 [Readmes](/chapter_2/readmes.md)
 * 2.2 [Complexity](/chapter_2/complexity.md)
 * 2.3 [Test coverage](/chapter_2/tests.md)
-* 2.4 [Dependency auditing](/chapter_2/dep_audit.md) TODO
-* 2.5 [Linting](/chapter_2/code_styling.md) TODO
+* 2.4 [Dependency auditing](/chapter_2/dep_audit.md)
+* 2.5 [Linting](/chapter_2/code_styling.md)
 * 2.6 [LTS matrix](/chapter_2/lts_matrix.md) TODO
 * 2.7 [OWASP Top 10](/chapter_2/owasp_10.md)
 
