@@ -41,7 +41,7 @@ Runbooks are documented procedures for executing routine operations or handling 
 
 ## Examples
 
-*Coming soon*
+- [Database Failover Procedure Runbook](/chapter_4/example_runbook.md) - A comprehensive runbook for handling PostgreSQL database failover in both planned and emergency scenarios
 
 ## Sources
 

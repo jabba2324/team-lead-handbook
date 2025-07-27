@@ -53,7 +53,7 @@ Post mortems (also called post-incident reviews or retrospectives) are structure
 
 ## Examples
 
-*Coming soon*
+- [Example Payment Processing Outage Post-Mortem](/chapter_4/example_post_mortem.md) - A detailed post-mortem for a fictional payment system outage, demonstrating the structure and level of detail expected in a thorough incident analysis
 
 ## Sources
 
